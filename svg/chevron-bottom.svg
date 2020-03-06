@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="9px" viewBox="0 0 12 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>chevron-bottom</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="r" transform="translate(-80.000000, -65.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M90.7433,65.7501 C91.0083,65.44132 91.4635,65.41482 91.7599,65.69091 C92.0294,65.94191 92.0749,66.35657 91.8818,66.66188 L91.8167,66.74992 L86.53673,72.9011 C86.27436,73.2067 85.83151,73.2322 85.53905,72.9775 L85.46327,72.9011 L80.18328,66.74992 C79.91823,66.44114 79.94366,65.96701 80.24009,65.69091 C80.50957,65.43992 80.91024,65.439 81.18,65.6729 L81.25674,65.7501 L86.0000017,71.275 L90.7433,65.7501 Z" id="chevron-bottom"></path>
+        </g>
+    </g>
+</svg>

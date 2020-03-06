@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="r" transform="translate(-248.000000, -64.000000)" fill="#000000">
+            <path d="M259.658,64.16436 C260.04,64.43243 260.113,64.93393 259.821,65.28448 L252.549,74.0000013 L248.255,70.0644 C247.915,69.75238 247.915,69.24644 248.255,68.93439 C248.596,68.62234 249.148,68.62234 249.488,68.93439 L252.374,71.5793 L258.436,64.31371 C258.728,63.96316 259.275,63.89629 259.658,64.16436 Z" id="check"></path>
+        </g>
+    </g>
+</svg>

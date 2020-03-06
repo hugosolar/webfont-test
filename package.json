@@ -1,0 +1,15 @@
+{
+  "name": "webfont-proof",
+  "version": "1.0.0",
+  "description": "CC webfont proof of concept",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "icon-font-generator": "^2.1.10"
+  },
+  "scripts": {
+    "webfont": "icon-font-generator svg/*.svg -o icon-dist -n 'cc-webfont' -f './fonts' --height 500 --normalize --round --descent"
+  },
+  "author": "hugosolar",
+  "license": "MIT"
+}
